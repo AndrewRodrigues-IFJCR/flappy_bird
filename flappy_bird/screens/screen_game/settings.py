@@ -1,0 +1,3 @@
+from ..abstract_settings import AbstractSettings
+
+class Settings(AbstractSettings):...
